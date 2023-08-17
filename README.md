@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tatiane Souto. I'm Software Development Engineer with more than 18 years of experience
+- 👋 Hi, I’m Tatiane Souto. I'm Software Development Engineer with more than 20 years of experience
 - 👀 I’m interested in learning all the time
-- 🌱 I’m currently learning English and AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on new projects and volunteers
 - 📫 How to reach me tatisouto@gmail.com
 
